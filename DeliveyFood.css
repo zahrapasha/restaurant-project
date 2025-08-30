@@ -756,8 +756,9 @@ gap:4rem;
 
 }
 .img-section-mobile-app{
-	position: relative;
-	bottom: -15px;
+	 transform: scale(1.1);
+     position: relative;
+	 bottom: 5px;
 } 
 
 .img-section-mobile-app >img{
